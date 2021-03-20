@@ -3,6 +3,7 @@
     "stylelint.vscode-stylelint",
     "octref.vetur",
     "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "johnsoncodehk.volar"
   ]
 }
