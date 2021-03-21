@@ -6,12 +6,8 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import HelloWorld from '../components/HelloWorld.vue'
 
 export default defineComponent({
-  name: 'Index',
-  components: {
-    HelloWorld
-  }
+  name: 'Index'
 })
 </script>
